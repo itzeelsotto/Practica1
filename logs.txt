@@ -1,0 +1,35 @@
+commit 80f33ed35bded538a95884b8a4cb03b379ae913d
+Author: Itzel Soto <itzel_2609@hotmail.com>
+Date:   Thu Apr 7 08:40:27 2016 -0600
+
+    footer
+
+commit 3039ef6fd837c440ec2e2f4dea2062efed7537e0
+Author: Itzel Soto <itzel_2609@hotmail.com>
+Date:   Thu Apr 7 08:33:56 2016 -0600
+
+    Cuerpo de la Pagina
+
+commit 7930eb42763e4f47a0105f1ca2899543d88670cc
+Author: Itzel Soto <itzel_2609@hotmail.com>
+Date:   Thu Apr 7 08:29:04 2016 -0600
+
+    Estructura bootstrap
+
+commit 48af818d2bebae827bb1a3ad11993adb1efc75e3
+Author: Itzel Soto <itzel_2609@hotmail.com>
+Date:   Thu Apr 7 08:26:19 2016 -0600
+
+    bootstrap
+
+commit e78e2d36f099e1a9b99785e6eed257059921336e
+Author: Itzel Soto <itzel_2609@hotmail.com>
+Date:   Thu Apr 7 08:21:19 2016 -0600
+
+    titulo de la pagina
+
+commit c334d794baea226f496ca341b3159b46a7dfefaf
+Author: Itzel Soto <itzel_2609@hotmail.com>
+Date:   Thu Apr 7 08:17:09 2016 -0600
+
+    pagina en blanco
